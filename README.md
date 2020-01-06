@@ -2,7 +2,7 @@
 
 Selectively-permeable membrane. Filter `stdin` and print matches to `stdout`.
 
-_Designed with `enie` in mind._
+_Designed with [enie](https://github.com/mycognosist/enie) in mind._
 
 ### Description
 
